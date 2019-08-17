@@ -217,6 +217,8 @@ table {
         min-width: 0;
         padding:260px 0 100px 0;
         background-image:url(src_11025824_flower.jpg);
+        background-attachment:fixed;
+        background-size:cover;
 }
     .articles {
         min-width:90px;
