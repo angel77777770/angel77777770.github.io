@@ -26,8 +26,9 @@ a:hover::after{
   width: 100%;
 }
 
-img {
+.article img {
     height:220px;
+    width:360px;
 }
 
 
