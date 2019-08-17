@@ -215,7 +215,8 @@ table {
 }
     .top-wrapper {
         min-width: 0;
-        padding:260px 0 100px 0;;
+        padding:260px 0 100px 0;
+        background-attachment:inherit;
 }
     .articles {
         min-width:90px;
