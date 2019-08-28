@@ -207,6 +207,9 @@ table {
 }
 
 @media(max-width:670px){
+    body {
+        width:100%;
+    }
     .container{
         margin:10px 0;
     }
